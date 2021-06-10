@@ -1,7 +1,7 @@
 {
   "name": "pantherswap-frontend-dex",
   "description": "PantherSwap Dex Interface",
-  "homepage": ".",
+  "homepage": "https://whispering-crag-88630.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
